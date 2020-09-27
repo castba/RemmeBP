@@ -1,0 +1,37 @@
+{
+    "producer_account_name": "castbastraya"
+    "org": {
+        "candidate_name": "castbastraya",
+        "website": "https://github.com/castba",
+        "code_of_conduct": "",
+        "ownership_disclosure": "",
+        "email": "castba1977@gmail.com",
+        "branding": {
+            "logo_256": "https://drive.google.com/file/d/1Y3h6Z_5drJrpRUFZ1k-8FF2namIG7g4m",
+            "logo_1024": "",
+            "logo_svg": ""
+        },
+        "location": {
+            "name": "Melbourne",
+            "country": "AUS",
+            "latitude": -37.815300,
+            "longitude": 144.967135
+        },
+        "social": {
+            "twitter": "",
+            "github": "castba"
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "name": "primary",
+                "country": "AUS",
+                "latitude": -37.815300,
+                "longitude": 144.967135
+            },
+            "node_type": "producer",
+            "p2p_endpoint": "p2p.castbastraya:9876"
+        }
+    ]
+}
