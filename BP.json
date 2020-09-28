@@ -7,7 +7,7 @@
         "country": "AU", 
         "latitude": -37.815300,  
         "longitude": 144.967135,
-        "name": "castbastraya"
+        "name": "Melbourne"
       }, 
       "node_type": "producer", 
       "p2p_endpoint": "p2p.castbastraya:9876", 
